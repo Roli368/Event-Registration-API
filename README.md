@@ -21,22 +21,6 @@ It allows:
 
 ---
 
-## Project Structure
-
-event-api/
-│── controllers/
-│   └── registrationController.js
-│── models/
-│   └── Registration.js
-│── routes/
-│   └── registrationRoutes.js
-│── .env
-│── .gitignore
-│── package.json
-│── server.js
-│── README.md
-
----
 
 ## Installation
 
