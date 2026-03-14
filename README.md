@@ -72,7 +72,7 @@ Register a participant.
 
 URL:
 
-http://localhost:3000/registrations
+http://localhost:3000/register
 
 Body (JSON):
 
